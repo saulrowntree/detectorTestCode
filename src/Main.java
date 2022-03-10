@@ -35,7 +35,7 @@ public class Main {
 
 
         if (true) {
-            //single line test >:(
+            //single line test(
             /* single line multiline test*/
             /**  Single line javadoc test */
             /* multi line test
