@@ -3,7 +3,7 @@
  *
  * hack to allow insecure hashing algorithms to be used.
  *
- *
+ * WONT BE PICKED UP AS JAVADOC IGNORED
  *
  *
  *
